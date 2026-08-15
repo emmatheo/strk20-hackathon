@@ -2,5 +2,12 @@
   {
     "repo_url": "https://github.com/ZylithFi/client",
     "telegram": ["t4nz4n1t3"]
+  },
+  {
+    "repo_url": "https://github.com/emmatheo/anonymous-bounty",
+    "telegram": ["TimmTyx"],
+    "name": "Anonymous Bounty",
+    "one_liner": "Post and pay bounties on Starknet without linking funder to hunter.",
+    "category": "Payments"
   }
 ]
