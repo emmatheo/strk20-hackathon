@@ -303,5 +303,18 @@
     "team": [
       "welttowelt"
     ]
+  },
+  {
+    "repo_url": "https://github.com/emmatheo/anonymous-bounty",
+    "telegram": [
+      "TimmTyx"
+    ],
+    "name": "Anonymous Bounty",
+    "one_liner": "Post and pay bounties on Starknet without linking funder to hunter.",
+    "category": "Payments",
+    "team": [
+      "emmatheo"
+    ],
+    "inspired_by": "IDEA-12"
   }
 ]
